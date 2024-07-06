@@ -8,6 +8,6 @@ public class BoardController {
 	
 	@GetMapping("/")
 	public String hello() {
-		return "<h1>hi</h1>";
+		return "<h1>hi</h1>";//123d22wss
 	}
 }
